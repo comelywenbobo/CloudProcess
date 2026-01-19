@@ -1,0 +1,10 @@
+# VS / CMake / Build
+out/
+build/
+Debug/
+Release/
+.vs/
+
+# 系统文件
+*.log
+*.tmp
